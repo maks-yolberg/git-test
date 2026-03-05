@@ -1,3 +1,0 @@
-Day2 
-	- create new branch 
-	- edit, pull and check github
