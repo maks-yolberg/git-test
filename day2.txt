@@ -1,0 +1,3 @@
+Day2 
+	- create new local branch and connect it with GitHub 
+	- create and push new file day2.txt on GitHub branch – second_day
